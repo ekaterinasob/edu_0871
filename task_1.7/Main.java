@@ -5,7 +5,7 @@ public class Main {
         int a = scan.nextInt();
         int b = scan.nextInt();
         int c = scan.nextInt();
-        System.out.println(a*b*c);
+        System.out.println((a*b*c)*1000);
     }
 
 }
