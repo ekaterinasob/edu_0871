@@ -5,5 +5,6 @@ public class Main {
         float TC = scan.nextFloat();
         float a = 9;
         float b = 5;
-        System.out.println ((a/b)*TC+32);
+        System.out.println((a / b) * TC + 32);
     }
+}
