@@ -1,4 +1,4 @@
-public class Solution {
+public class Main {
     public static int number = 25;
 
     public static void main(String[] args) {
@@ -6,5 +6,6 @@ public class Solution {
         System.out.println(number * number);
     }
 }
+
 
 
