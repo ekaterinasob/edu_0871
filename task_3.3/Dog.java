@@ -1,7 +1,7 @@
 public class Dog {
     
     public static void main(String[] args) {
-        Dog maylo = new Dog(name"Maylo", age 3);
+        Dog maylo = new Dog("Maylo", 3);
 
     }
 
