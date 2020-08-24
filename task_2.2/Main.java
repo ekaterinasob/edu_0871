@@ -1,6 +1,6 @@
 *//public class Main {
     public static int min(int a, int b, int c, int d) {
-        if (min()>a<c?a:c : b<c? b:c;
+        if (min()>a<c?a:c : b<c? b:c : a<d?a:d : b<d?b:d {
         
 
     }
